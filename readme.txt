@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 test
 dev
 add merge
-dev test
+dev  origin/dev test
+
